@@ -16,11 +16,15 @@ Striving for personal growth — currently exploring the intersection of **compu
 ![Stable Diffusion](https://img.shields.io/badge/-Stable%20Diffusion-000000?style=flat-square&logo=stability-ai&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
-## 📊 GitHub stats
+---
 
-![Erin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Erin-Abraham&show_icons=true&theme=dark&hide_border=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Erin-Abraham&layout=compact&theme=dark&hide_border=true)
+### 🧰 &nbsp;Github Stats
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Erin-Abraham&theme=radical&hide_border=true&date_format=j%2FM%2FY" alt="GitHub Streak" />
+</p>
+
+---
 ## 📫 Let's connect
 
 - 📧 Email: your-email@example.com
